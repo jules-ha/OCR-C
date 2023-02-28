@@ -1,0 +1,45 @@
+window{
+    color:white;
+}
+
+.left_p{
+    background-color: #73655C;
+}
+
+.right_p{
+    background-color: #423a34;
+}
+
+.left_p button{
+    background: #e7483a;
+    border: 2px solid #000000;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.right_p button{
+    background: #e7483a;
+    border: 2px solid #000000;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.neural_network_p{
+    background-color: #423a34;
+}
+
+.neural_left{
+    border: 2px solid #ff8800;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.neural_right{
+    border: 2px solid #ff8800;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.success{
+    color: green;
+}
